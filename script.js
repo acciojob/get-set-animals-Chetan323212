@@ -6,7 +6,7 @@ class Animal {
 	}
 
 	get species(){
-		this.species
+		return this.species
 	}
 
 	makeSound(){
